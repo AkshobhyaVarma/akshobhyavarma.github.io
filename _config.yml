@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "About us"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Were a blog for Cat lovers and photographers"
+  bio              : "We're a blog for Cat lovers and photographers"
   location         : "Based in Mumbai"
   email            :
   links:
