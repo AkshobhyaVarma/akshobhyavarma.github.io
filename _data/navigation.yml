@@ -1,7 +1,4 @@
 # main links
 main:
-  main:
-  - title: "About"
-    url: https://akshobhyavarma.github.io/about/
   - title: "Posts"
     url: /year-archive/
